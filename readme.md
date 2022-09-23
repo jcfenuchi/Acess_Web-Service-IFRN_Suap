@@ -61,5 +61,5 @@ logo após abra e acesse no seu navegador<br>
 <p>nesse codigo foi ultilizado o cliente_suap_django para obtenção do token para realizar a consulta no qual pode ser encontrado atraves do link <a href='https://github.com/ifrn-oficial/cliente_suap_django'>cliente_suap_django</a> <-- codigo cliente suap django<br><a href='https://suap.ifrn.edu.br/api/docs/'>endpoints/Docs da api</a> <-- onde pode ser encontrado links e info sobre Get,Post... <br></p>
 
 <h3>Finalização</h3>
-<p>deixo o codigo aberto para quem quiser desfrutar ou aprimorar, espero que esse codigo ajude futuro usuarios da api ou de como ultilizar.<p>
+<p>deixo o codigo aberto para quem quiser desfrutar ou aprimorar, espero que esse codigo ajude futuro usuarios da api.<p>
 
