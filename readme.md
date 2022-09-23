@@ -49,7 +49,7 @@ logo após abra e acesse no seu navegador<br>
 <br>basta colocar no codigo main.py em uma variavel chamada Token.<br>
 
 ![codigo_main](/image/codigo%20_no_main.png)
-obs: apos essa etapa o token temporario sera de quem logou, então se deslogar e outra pessoa fizer login vai ser gerado um outro token temporario da pessoa que realizou o acesso.
+<br>obs: apos essa etapa o token temporario sera de quem logou, então se deslogar e outra pessoa fizer login vai ser gerado um outro token temporario da pessoa que realizou o acesso.
 <li> 6º execute o codigo main.py<br>
 <strong>python3 main.py</strong></li>
 <br>
